@@ -4,7 +4,7 @@
 
 Discord server : https://discord.gg/nfS2YU9ksQ
 
-A mythic **Call of Duty: Modern Warfare 2 Multiplayer Mod Menu** ported to **PS4** for **Private Matches**.
+a new ui menu for **Call of Duty: Modern Warfare 2 Multiplayer Mod Menu** ported to **PS4** for **Private Matches**.
 
 ## Features
 
