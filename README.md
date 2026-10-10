@@ -105,4 +105,4 @@ If you find a bug or have an idea for a new feature:
 3. Describe the problem or suggestion as clearly as possible.
 4. Include any useful information that can help reproduce the issue.
 
-**Thank you for using MAG MENU V2**
+**Thank you for using MAG MENU V2** 
