@@ -3,8 +3,8 @@
 # **MAG Menu by @a5x(ZERTY) and @UrBaaZz**
 
 ## MAG Menu MW2 Projects :
-MAG Menu V2 (full mod menu)
-MAG Menu Trickshot (trickshot menu only)
+- MAG Menu V2 (full mod menu)
+- MAG Menu Trickshot (trickshot menu only)
 
 Discord server : https://discord.gg/nfS2YU9ksQ
 
