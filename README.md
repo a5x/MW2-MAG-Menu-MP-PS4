@@ -2,6 +2,10 @@
 
 # **MAG Menu by @a5x(ZERTY) and @UrBaaZz**
 
+## MAG Menu MW2 Projects :
+MAG Menu V2 (full mod menu)
+MAG Menu Trickshot (trickshot menu only)
+
 Discord server : https://discord.gg/nfS2YU9ksQ
 
 a new ui menu for **Call of Duty: Modern Warfare 2 Multiplayer Mod Menu** ported to **PS4** for **Private Matches**.
